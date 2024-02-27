@@ -1,5 +1,6 @@
 // Problem statement
 // You are given two positive integers 'n' and 'm'. You have to return the 'nth' root of 'm', i.e. 'm(1/n)'. If the 'nth root is not an integer, return -1.
+// Input: ‘n’ = 3, ‘m’ = 27
 
 int func(int mid, int n, int m){
   long long ans = 1;
